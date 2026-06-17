@@ -10,6 +10,6 @@ A simple Python-based application to manage and track homework submissions using
  Prerequisites
   <br>--> A running MySQL server (local or remote).</br>
   --> Python 3.x installed.
-  --> __mysql-connector-python library installed:__
+  <br>--> __mysql-connector-python library installed:__</br>
     
 
