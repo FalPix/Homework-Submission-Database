@@ -7,7 +7,7 @@ A simple Python-based application to manage and track homework submissions using
  <br>--> __View Records:__  Retrieve and display all stored homework submissions from the database.</br>
 
 # 🚀 Getting Started
- Prerequisites
+ __Prerequisites__
   <br>--> A running MySQL server (local or remote).</br>
   --> Python 3.x installed.
   <br>--> __mysql-connector-python library installed:__</br>
