@@ -7,8 +7,8 @@ def create_connection():
     try:
         connection = mysql.connector.connect(
             host='localhost',
-            user='Priyanshu',
-            password='MySql',
+            user='YOUR_USERNAME',
+            password='YOUR_PASSWORD',
             database='homework_db'
         )
         if connection.is_connected():
@@ -77,6 +77,3 @@ if __name__ == "__main__":
         add_submission(connection, 'Divyansh Gupta', 'Science Homework', '2024-12-15', 'This is my science homework.')
         view_submissions(connection)
         connection.close()
-
-In GitHub codespace, run it anytime with:
-python3 /workspaces/Homework-Submission-Database/homework.py
