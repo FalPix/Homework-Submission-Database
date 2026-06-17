@@ -11,5 +11,5 @@ A simple Python-based application to manage and track homework submissions using
   --> A running MySQL server (local or remote).
   --> Python 3.x installed.
   --> mysql-connector-python library installed:
-    [gemini-code-1781674092518.sh](https://github.com/user-attachments/files/29032826/gemini-code-1781674092518.sh)
+    
 
