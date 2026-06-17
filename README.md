@@ -13,7 +13,7 @@ A simple Python-based application to manage and track homework submissions using
   <br>--> __mysql-connector-python library installed:__</br>
   <img width="741" height="127" alt="installer1" src="https://github.com/user-attachments/assets/f5026140-5d0e-4a51-982d-df180b729769" />
 
-  __Configuration__
+ __Configuration__
    <br>Update the create_connection() function in homework.py with your database credentials:</br>
    <img width="782" height="234" alt="create_connection()" src="https://github.com/user-attachments/assets/1c16370c-cf05-42bb-bd92-a3b5999a6ce8" />
 
